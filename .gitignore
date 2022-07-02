@@ -1,0 +1,5 @@
+venv/
+lime2/*/migrations/*.py
+!lime2/**/migrations/__init__.py
+media/
+mongodb_data_container/
